@@ -53,23 +53,23 @@ Building the audit-log viewer for OpenMRS. Solving DSA daily. Shipping the next 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=openjdk&logoColor=ffffff" alt="Java" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=python&logoColor=ffffff" alt="Python" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=cplusplus&logoColor=ffffff" alt="C++" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=react&logoColor=ffffff" alt="React" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=nodedotjs&logoColor=ffffff" alt="Node.js" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=express&logoColor=ffffff" alt="Express" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=mongodb&logoColor=ffffff" alt="MongoDB" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=css&logoColor=ffffff" alt="CSS3" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=git&logoColor=ffffff" alt="Git" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=figma&logoColor=ffffff" alt="Figma" height="40" />
-<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=electron&logoColor=ffffff" alt="Electron" height="40" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="Java" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=cplusplus&logoColor=ffffff" alt="C++" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=css&logoColor=ffffff" alt="CSS3" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" />
+<img src="https://img.shields.io/badge/-6b7075?style=for-the-badge&logo=electron&logoColor=ffffff" alt="Electron" />
 
 </div>
 
