@@ -1,126 +1,107 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────┐
-│  SYSTEM BOOT :: AISHWARYA_TRIPATHI.exe        │
-├──────────────────────────────────────────────┤
-│  [ok] loading track_record.json ...... done   │
-│  [ok] compiling ambition_matrix ...... done    │
-│  [ok] mounting /dev/faang ............ pending │
-│  [ok] status ......................... ONLINE  │
-└──────────────────────────────────────────────┘
-```
+<br>
 
-# AISHWARYA TRIPATHI
+# Aishwarya Tripathi
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=760&lines=I+do+not+build+demos.+I+ship+production.;Live+on+web%2C+Android%2C+and+desktop.;Merged+into+infra+running+in+40%2B+countries.;target_acquired%3A+FAANG." alt="typing" />
+<sub>Full-stack engineer · VIT Vellore</sub>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/LOCATION-VIT_VELLORE-00F5FF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/MISSION-FAANG-00F5FF?style=for-the-badge&labelColor=000000" />
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/aishwaryaaatripathi/) &nbsp;//&nbsp; [LeetCode](https://leetcode.com/CASH11/) &nbsp;//&nbsp; [LockIN](https://staylockedin.tech) &nbsp;//&nbsp; [Mail](mailto:aishwarya.tripathi2023@vitstudent.ac.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+LockIN.;Open+source%2C+OpenMRS.;Shipping+on+web%2C+Android%2C+and+desktop.;Next%3A+FAANG." />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=760&lines=Building+LockIN.;Open+source%2C+OpenMRS.;Shipping+on+web%2C+Android%2C+and+desktop.;Next%3A+FAANG." alt="typing" />
+</picture>
+
+<br><br>
+
+[LinkedIn](https://www.linkedin.com/in/aishwaryaaatripathi/) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/CASH11/) &nbsp;·&nbsp; [LockIN](https://staylockedin.tech) &nbsp;·&nbsp; [Email](mailto:aishwarya.tripathi2023@vitstudent.ac.in)
 
 </div>
 
 <br>
 
-<div align="center"><code>[ 01 ] // TRACK_RECORD</code></div>
-
-```bash
-$ whoami
-CSE @ VIT Vellore. Building things that outlive the semester they were assigned in.
-
-$ cat manifesto.md
-LockIN is not a side-project screenshot. It is a full-stack habit-tracking OS —
-real users, real infra, real uptime — live on web, Android, and desktop.
-Built and shipped solo before most people finish scoping their final-year project.
-
-I do not wait for an invite to contribute either. Five of my pull requests
-are merged into OpenMRS, EMR infrastructure running in 40+ countries —
-including a reflected-XSS fix nobody assigned me.
-
-$ ls -la track_record/
-drwx  fullstack/       MERN, REST APIs, system design — shipped, not simulated
-drwx  opensource/      5 merged PRs · OpenMRS (esm-core) · security + tooling
-drwx  algorithms/      100+ LeetCode solved, because talk is cheap
-drwx  infra/           CI/CD, cross-platform builds, zero hand-holding
-```
+---
 
 <br>
 
+### Overview
+
+LockIN is a full-stack habit-tracking platform — streaks, XP, leaderboards, and encrypted messaging. Live on web, Android, and desktop.
+
+Five pull requests merged into OpenMRS, EMR software used across 40+ countries. One of them fixed a reflected XSS vulnerability.
+
+Third-year Computer Science student at VIT Vellore. Previously a software engineer intern at O.P. Jindal Global University.
+
+<br>
+
+---
+
+<br>
+
+### Now
+
+Building the audit-log viewer for OpenMRS. Solving DSA daily. Shipping the next release of LockIN.
+
+<br>
+
+---
+
+<br>
+
+### Stack
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aishwaryaaatripathi/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00F5FF" /></a>
-<a href="https://leetcode.com/CASH11/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=flat-square&logo=leetcode&logoColor=00F5FF" /></a>
-<a href="https://staylockedin.tech"><img src="https://img.shields.io/badge/LOCKIN.TECH-000000?style=flat-square&logo=vercel&logoColor=00F5FF" /></a>
-<a href="https://github.com/AshThe25/openmrs-esm-core"><img src="https://img.shields.io/badge/OPENMRS-000000?style=flat-square&logo=github&logoColor=00F5FF" /></a>
+Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Git
 
 </div>
 
 <br>
 
-<div align="center"><code>[ 02 ] // STACK.SYS</code></div>
+---
+
+<br>
+
+### Numbers
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,nodejs,express,mongodb,postgres,html,css,vite,aws,git,github,figma,electron&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AshThe25&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AshThe25&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AshThe25&hide_border=true&background=000000&stroke=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshThe25&hide_border=true&background=FFFFFF&stroke=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshThe25/AshThe25/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AshThe25/AshThe25/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 <br>
 
-<div align="center"><code>[ 03 ] // TELEMETRY</code></div>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AshThe25&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&text_color=FFFFFF" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshThe25&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=00F5FF&fire=00F5FF&currStreakLabel=FFFFFF" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/AshThe25/AshThe25/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+---
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshThe25&bg_color=0D0D0D&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&area_color=0A3A3D&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
+**[staylockedin.tech](https://staylockedin.tech)**
 
-</div>
-
-<br>
-
-<div align="center"><code>[ 04 ] // ACHIEVEMENTS</code></div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AshThe25&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br>
-
-<div align="center"><code>[ 05 ] // CHANGELOG</code></div>
-
-```bash
-$ git log --oneline --all -- LockIN/
-feat:  streaks, XP/leveling, community feed, leaderboards, encrypted DMs
-perf:  bulk inserts + batched queries — killed the N+1 problem
-build: shipped Android (Capacitor) + macOS/Windows (Electron) + CI/CD
-```
-
-<div align="center">
-
-```
-> SIGNAL: staylockedin.tech
-> STATUS: NOT A PROTOTYPE. PRODUCTION.
-```
+<sub>Not a prototype. Production.</sub>
 
 </div>
