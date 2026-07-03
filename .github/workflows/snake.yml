@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: AshThe25
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=000000&color_dots=ebedf0,c9ccd1,9aa0a6,6b7075,000000
-            dist/github-contribution-grid-snake-dark.svg?color_snake=ffffff&color_dots=0d0d0d,3a3a3a,6b6b6b,a0a0a0,ffffff
+            dist/github-contribution-grid-snake.svg?color_snake=000000&color_dots=ebedf0,c9ccd1,9aa0a6,54595e,000000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=ffffff&color_dots=1c1f24,3a3f47,6e7681,b1bac4,ffffff
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
