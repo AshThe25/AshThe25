@@ -54,7 +54,7 @@ Building the audit-log viewer for OpenMRS. Solving DSA daily. Shipping the next 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,nodejs,express,mongodb,postgres,html,css,vite,aws,git,github,figma,electron&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cpy%2Ccpp%2Cjs%2Cts%2Creact%2Cnodejs%2Cexpress%2Cmongodb%2Cpostgres%2Chtml%2Ccss%2Cvite%2Caws%2Cgit%2Cgithub%2Cfigma%2Celectron&theme=dark" />
   <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,nodejs,express,mongodb,postgres,html,css,vite,aws,git,github,figma,electron&theme=light" />
 </picture>
 
