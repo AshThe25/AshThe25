@@ -1,3 +1,11 @@
+```bash
+$ ./boot.sh
+[ ok ]  loading track_record.json ... done
+[ ok ]  compiling ambition        ... done
+[ ok ]  mounting /dev/faang       ... pending
+[ ok ]  status                   : SHIPPING
+```
+
 <div align="center">
 
 # AISHWARYA TRIPATHI
@@ -65,6 +73,22 @@ drwx  infra/           CI/CD, cross-platform builds, zero hand-holding
 <br>
 
 <img src="https://raw.githubusercontent.com/AshThe25/AshThe25/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshThe25&bg_color=0D0D0D&color=FF3B30&line=FF3B30&point=FFFFFF&area=true&area_color=3D0F0D&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AshThe25&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 
 </div>
 
