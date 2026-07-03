@@ -53,7 +53,10 @@ Building the audit-log viewer for OpenMRS. Solving DSA daily. Shipping the next 
 
 <div align="center">
 
-Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Git
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,nodejs,express,mongodb,postgres,html,css,vite,aws,git,github,figma,electron&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,nodejs,express,mongodb,postgres,html,css,vite,aws,git,github,figma,electron&theme=light" />
+</picture>
 
 </div>
 
