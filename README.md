@@ -71,12 +71,12 @@ Building the audit-log viewer for OpenMRS. Solving DSA daily. Shipping the next 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AshThe25&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AshThe25&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://grs-deploy-tawny.vercel.app/api?username=AshThe25&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&count_private=true" />
+  <img height="160" src="https://grs-deploy-tawny.vercel.app/api?username=AshThe25&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&count_private=true" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://grs-deploy-tawny.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height="160" src="https://grs-deploy-tawny.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000" />
 </picture>
 
 <br>
