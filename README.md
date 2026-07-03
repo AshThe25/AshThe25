@@ -75,8 +75,8 @@ Building the audit-log viewer for OpenMRS. Solving DSA daily. Shipping the next 
   <img height="160" src="https://grs-deploy-tawny.vercel.app/api?username=AshThe25&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&count_private=true&cache_seconds=1800&v=2" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://grs-deploy-tawny.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=1800&v=2" />
-  <img height="160" src="https://grs-deploy-tawny.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&cache_seconds=1800&v=2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://grs-deploy-tawny.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&mono=true&mono_colors=3a3a3a,6b6b6b,a0a0a0,d0d0d0,ffffff&cache_seconds=1800&v=3" />
+  <img height="160" src="https://grs-deploy-tawny.vercel.app/api/top-langs/?username=AshThe25&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&mono=true&mono_colors=c9ccd1,9aa0a6,6b7075,3a3a3a,000000&cache_seconds=1800&v=3" />
 </picture>
 
 <br>
