@@ -53,10 +53,23 @@ Building the audit-log viewer for OpenMRS. Solving DSA daily. Shipping the next 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cpy%2Ccpp%2Cjs%2Cts%2Creact%2Cnodejs%2Cexpress%2Cmongodb%2Cpostgres%2Chtml%2Ccss%2Cvite%2Caws%2Cgit%2Cgithub%2Cfigma%2Celectron&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,nodejs,express,mongodb,postgres,html,css,vite,aws,git,github,figma,electron&theme=light" />
-</picture>
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=openjdk&logoColor=ffffff" alt="Java" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=cplusplus&logoColor=ffffff" alt="C++" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=react&logoColor=ffffff" alt="React" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=express&logoColor=ffffff" alt="Express" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=mongodb&logoColor=ffffff" alt="MongoDB" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=css&logoColor=ffffff" alt="CSS3" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=figma&logoColor=ffffff" alt="Figma" />
+<img src="https://img.shields.io/badge/-6b7075?style=flat-square&logo=electron&logoColor=ffffff" alt="Electron" />
 
 </div>
 
