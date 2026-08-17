@@ -15,7 +15,7 @@
 
 <br><br>
 
-[LinkedIn](https://www.linkedin.com/in/aishwaryaaatripathi/) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/CASH11/) &nbsp;·&nbsp; [LockIN](https://staylockedin.tech) &nbsp;·&nbsp; [Email](mailto:aishwarya.tripathi2023@vitstudent.ac.in)
+[LinkedIn](https://www.linkedin.com/in/aishwaryaaatripathi/) &nbsp;·&nbsp; [LockIN](https://staylockedin.tech) &nbsp;·&nbsp; [Email](mailto:aishwarya.tripathi2023@vitstudent.ac.in)
 
 </div>
 
